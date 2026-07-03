@@ -311,7 +311,7 @@ Vérifiez que le nom de paquet est correct et que l'application est bien install
   <string name="morphe_vot_translation_volume_title">Volume de la traduction</string>
   <string name="morphe_vot_translation_volume_summary">Volume de la voix doublée de la traduction</string>
   <string name="morphe_vot_max_speech_rate_title">Vitesse d\'élocution maximale</string>
-  <string name="morphe_vot_max_speech_rate_summary">Multiplicateur de vitesse maximal lors de l\'adaptation de la parole à un créneau de sous-titres</string>
+  <string name="morphe_vot_max_speech_rate_summary">Multiplicateur maximal de vitesse pour adapter la parole à la durée du sous-titre</string>
   <string name="morphe_vot_mymemory_info_summary">"API de traduction gratuite, aucune clé API requise. Jusqu'à 5,000 caractères par jour avec l'offre gratuite, ou jusqu'à 50,000 caractères par jour avec une adresse e-mail.
 
 Appuyez ici pour ouvrir MyMemory.translated.net"</string>

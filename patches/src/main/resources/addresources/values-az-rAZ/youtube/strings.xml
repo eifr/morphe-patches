@@ -345,6 +345,14 @@ OpenRouter.ai-ı açmaq üçün buraya toxunun"</string>
 
 API açarınız heç vaxt paylaşılmamalıdır. Buna girişi olan hər bir kəs OpenRouter balansınızı istifadə edə bilər"</string>
   <string name="morphe_vot_openrouter_credits_title">OpenRouter balans limitinə çatıldı</string>
+  <string name="morphe_vot_openrouter_credits_message">OpenRouter balans limitiniz bitdi. OpenRouter.ai-da balansınızı artırın və ya açar xərcləmə limitinizi yüksəldin</string>
+  <string name="morphe_vot_openrouter_open_website">OpenRouter.ai-ı Aç</string>
+  <string name="morphe_vot_openrouter_error">OpenRouter tərcüməsi uğursuz oldu (HTTP %s)</string>
+  <string name="morphe_vot_mymemory_quota_title">MyMemory gündəlik limiti bitdi</string>
+  <string name="morphe_vot_mymemory_quota_next_available">Növbəti %s tarixində əlçatan olacaq.</string>
+  <string name="morphe_vot_mymemory_quota_message_no_email">Bugünkü pulsuz MyMemory tərcümə normasını (5.000 simvol) istifadə etmisiniz. Gündəlik limiti 50.000 simvola artırmaq üçün tənzimləmələrdə MyMemory e-poçtunu əlavə edin və ya fərqli tərcümə xidmətinə keçin</string>
+  <string name="morphe_vot_mymemory_quota_message_with_email">Bugünkü MyMemory tərcümə normasını (50.000 simvol) istifadə etmisiniz. Başqa tərcümə xidmətinə keçin və ya sabah təkrar cəhd edin</string>
+  <string name="morphe_vot_mymemory_error">MyMemory tərcüməsi uğursuz oldu (status %s)</string>
   <!-- interaction.loop.loopVideoPatch -->
   <string name="morphe_loop_video_title">Video təkrarlamanı aktivləşdir</string>
   <!-- interaction.loop.loopVideoButtonPatch -->
